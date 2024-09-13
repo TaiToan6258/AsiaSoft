@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\toan\\source\\repos\\QuanLyBanHang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B1C820-4BB1-4D5E-82DC-5AEDC2F4D8A5}|QuanLyBanHang\\QuanLyBanHang.csproj|c:\\users\\toan\\source\\repos\\quanlybanhang\\quanlybanhang\\areas\\admin\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7B1C820-4BB1-4D5E-82DC-5AEDC2F4D8A5}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\areas\\admin\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B1C820-4BB1-4D5E-82DC-5AEDC2F4D8A5}|QuanLyBanHang\\QuanLyBanHang.csproj|c:\\users\\toan\\source\\repos\\quanlybanhang\\quanlybanhang\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B1C820-4BB1-4D5E-82DC-5AEDC2F4D8A5}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D6D811-0DBE-4C2B-A787-F6DF431C299F}|Model\\Model.csproj|c:\\users\\toan\\source\\repos\\quanlybanhang\\model\\ef\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D6D811-0DBE-4C2B-A787-F6DF431C299F}|Model\\Model.csproj|solutionrelative:model\\ef\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D6D811-0DBE-4C2B-A787-F6DF431C299F}|Model\\Model.csproj|c:\\users\\toan\\source\\repos\\quanlybanhang\\model\\dao\\daouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D6D811-0DBE-4C2B-A787-F6DF431C299F}|Model\\Model.csproj|solutionrelative:model\\dao\\daouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B1C820-4BB1-4D5E-82DC-5AEDC2F4D8A5}|QuanLyBanHang\\QuanLyBanHang.csproj|c:\\users\\toan\\source\\repos\\quanlybanhang\\quanlybanhang\\areas\\admin\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B1C820-4BB1-4D5E-82DC-5AEDC2F4D8A5}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\areas\\admin\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\toan\\source\\repos\\QuanLyBanHang\\QuanLyBanHang\\Areas\\Admin\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\Areas\\Admin\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\toan\\source\\repos\\QuanLyBanHang\\QuanLyBanHang\\Areas\\Admin\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "QuanLyBanHang\\Areas\\Admin\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowC4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T02:17:19.235Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserInfo.cs",
+              "DocumentMoniker": "C:\\Users\\toan\\source\\repos\\QuanLyBanHang\\Model\\EF\\UserInfo.cs",
+              "RelativeDocumentMoniker": "Model\\EF\\UserInfo.cs",
+              "ToolTip": "C:\\Users\\toan\\source\\repos\\QuanLyBanHang\\Model\\EF\\UserInfo.cs",
+              "RelativeToolTip": "Model\\EF\\UserInfo.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T09:17:25.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\toan\\source\\repos\\QuanLyBanHang\\QuanLyBanHang\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\toan\\source\\repos\\QuanLyBanHang\\QuanLyBanHang\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "QuanLyBanHang\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T08:25:00.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DaoUser.cs",
+              "DocumentMoniker": "C:\\Users\\toan\\source\\repos\\QuanLyBanHang\\Model\\Dao\\DaoUser.cs",
+              "RelativeDocumentMoniker": "Model\\Dao\\DaoUser.cs",
+              "ToolTip": "C:\\Users\\toan\\source\\repos\\QuanLyBanHang\\Model\\Dao\\DaoUser.cs",
+              "RelativeToolTip": "Model\\Dao\\DaoUser.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:16:06.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\toan\\source\\repos\\QuanLyBanHang\\QuanLyBanHang\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\toan\\source\\repos\\QuanLyBanHang\\QuanLyBanHang\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeToolTip": "QuanLyBanHang\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:15:34.031Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
