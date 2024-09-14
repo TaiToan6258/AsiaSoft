@@ -1,0 +1,12 @@
+C:\Users\toan\source\repos\NortwindTradersManagerment\model\obj\Debug\model.csproj.AssemblyReference.cache
+C:\Users\toan\source\repos\NortwindTradersManagerment\model\obj\Debug\model.csproj.CoreCompileInputs.cache
+C:\Users\toan\source\repos\NortwindTradersManagerment\model\bin\Debug\model.dll.config
+C:\Users\toan\source\repos\NortwindTradersManagerment\model\bin\Debug\model.dll
+C:\Users\toan\source\repos\NortwindTradersManagerment\model\bin\Debug\model.pdb
+C:\Users\toan\source\repos\NortwindTradersManagerment\model\bin\Debug\EntityFramework.dll
+C:\Users\toan\source\repos\NortwindTradersManagerment\model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\toan\source\repos\NortwindTradersManagerment\model\bin\Debug\EntityFramework.xml
+C:\Users\toan\source\repos\NortwindTradersManagerment\model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\toan\source\repos\NortwindTradersManagerment\model\obj\Debug\model.csproj.Up2Date
+C:\Users\toan\source\repos\NortwindTradersManagerment\model\obj\Debug\model.dll
+C:\Users\toan\source\repos\NortwindTradersManagerment\model\obj\Debug\model.pdb

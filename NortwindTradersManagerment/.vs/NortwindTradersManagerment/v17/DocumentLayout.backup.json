@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\toan\\source\\repos\\NortwindTradersManagerment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74D3318F-E59E-469D-877A-B50CA199024D}|NortwindTradersManagerment\\NortwindTradersManagerment.csproj|c:\\users\\toan\\source\\repos\\nortwindtradersmanagerment\\nortwindtradersmanagerment\\areas\\admin\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74D3318F-E59E-469D-877A-B50CA199024D}|NortwindTradersManagerment\\NortwindTradersManagerment.csproj|solutionrelative:nortwindtradersmanagerment\\areas\\admin\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\toan\\Downloads\\startbootstrap-sb-admin-2-gh-pages\\startbootstrap-sb-admin-2-gh-pages\\tables.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74D3318F-E59E-469D-877A-B50CA199024D}|NortwindTradersManagerment\\NortwindTradersManagerment.csproj|c:\\users\\toan\\source\\repos\\nortwindtradersmanagerment\\nortwindtradersmanagerment\\areas\\admin\\views\\customers\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74D3318F-E59E-469D-877A-B50CA199024D}|NortwindTradersManagerment\\NortwindTradersManagerment.csproj|solutionrelative:nortwindtradersmanagerment\\areas\\admin\\views\\customers\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74D3318F-E59E-469D-877A-B50CA199024D}|NortwindTradersManagerment\\NortwindTradersManagerment.csproj|C:\\Users\\toan\\source\\repos\\NortwindTradersManagerment\\nortwindtradersmanagerment\\areas\\admin\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74D3318F-E59E-469D-877A-B50CA199024D}|NortwindTradersManagerment\\NortwindTradersManagerment.csproj|solutionrelative:nortwindtradersmanagerment\\areas\\admin\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74D3318F-E59E-469D-877A-B50CA199024D}|NortwindTradersManagerment\\NortwindTradersManagerment.csproj|c:\\users\\toan\\source\\repos\\nortwindtradersmanagerment\\nortwindtradersmanagerment\\areas\\admin\\views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74D3318F-E59E-469D-877A-B50CA199024D}|NortwindTradersManagerment\\NortwindTradersManagerment.csproj|solutionrelative:nortwindtradersmanagerment\\areas\\admin\\views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{957AAD38-CECB-4173-9F98-7247749D889F}|model\\Model.csproj|C:\\Users\\toan\\source\\repos\\NortwindTradersManagerment\\model\\customersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{957AAD38-CECB-4173-9F98-7247749D889F}|model\\Model.csproj|solutionrelative:model\\customersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74D3318F-E59E-469D-877A-B50CA199024D}|NortwindTradersManagerment\\NortwindTradersManagerment.csproj|c:\\users\\toan\\source\\repos\\nortwindtradersmanagerment\\nortwindtradersmanagerment\\areas\\admin\\controllers\\dashbroadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74D3318F-E59E-469D-877A-B50CA199024D}|NortwindTradersManagerment\\NortwindTradersManagerment.csproj|solutionrelative:nortwindtradersmanagerment\\areas\\admin\\controllers\\dashbroadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74D3318F-E59E-469D-877A-B50CA199024D}|NortwindTradersManagerment\\NortwindTradersManagerment.csproj|C:\\Users\\toan\\source\\repos\\NortwindTradersManagerment\\nortwindtradersmanagerment\\areas\\admin\\views\\shared\\viewpage1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74D3318F-E59E-469D-877A-B50CA199024D}|NortwindTradersManagerment\\NortwindTradersManagerment.csproj|solutionrelative:nortwindtradersmanagerment\\areas\\admin\\views\\shared\\viewpage1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74D3318F-E59E-469D-877A-B50CA199024D}|NortwindTradersManagerment\\NortwindTradersManagerment.csproj|c:\\users\\toan\\source\\repos\\nortwindtradersmanagerment\\nortwindtradersmanagerment\\areas\\admin\\views\\dashbroad\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74D3318F-E59E-469D-877A-B50CA199024D}|NortwindTradersManagerment\\NortwindTradersManagerment.csproj|solutionrelative:nortwindtradersmanagerment\\areas\\admin\\views\\dashbroad\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "tables.html",
+              "DocumentMoniker": "C:\\Users\\toan\\Downloads\\startbootstrap-sb-admin-2-gh-pages\\startbootstrap-sb-admin-2-gh-pages\\tables.html",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\startbootstrap-sb-admin-2-gh-pages\\startbootstrap-sb-admin-2-gh-pages\\tables.html",
+              "ToolTip": "C:\\Users\\toan\\Downloads\\startbootstrap-sb-admin-2-gh-pages\\startbootstrap-sb-admin-2-gh-pages\\tables.html",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\startbootstrap-sb-admin-2-gh-pages\\startbootstrap-sb-admin-2-gh-pages\\tables.html",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAgwKcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-14T04:27:26.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\toan\\source\\repos\\NortwindTradersManagerment\\NortwindTradersManagerment\\Areas\\Admin\\Views\\Customers\\Index.cshtml",
+              "RelativeDocumentMoniker": "NortwindTradersManagerment\\Areas\\Admin\\Views\\Customers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\toan\\source\\repos\\NortwindTradersManagerment\\NortwindTradersManagerment\\Areas\\Admin\\Views\\Customers\\Index.cshtml*",
+              "RelativeToolTip": "NortwindTradersManagerment\\Areas\\Admin\\Views\\Customers\\Index.cshtml*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T04:23:29.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "C:\\Users\\toan\\source\\repos\\NortwindTradersManagerment\\NortwindTradersManagerment\\Areas\\Admin\\Views\\Customers\\Search.cshtml",
+              "RelativeDocumentMoniker": "NortwindTradersManagerment\\Areas\\Admin\\Views\\Customers\\Search.cshtml",
+              "ToolTip": "C:\\Users\\toan\\source\\repos\\NortwindTradersManagerment\\NortwindTradersManagerment\\Areas\\Admin\\Views\\Customers\\Search.cshtml*",
+              "RelativeToolTip": "NortwindTradersManagerment\\Areas\\Admin\\Views\\Customers\\Search.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T04:07:15.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DashbroadController.cs",
+              "DocumentMoniker": "C:\\Users\\toan\\source\\repos\\NortwindTradersManagerment\\NortwindTradersManagerment\\Areas\\Admin\\Controllers\\DashbroadController.cs",
+              "RelativeDocumentMoniker": "NortwindTradersManagerment\\Areas\\Admin\\Controllers\\DashbroadController.cs",
+              "ToolTip": "C:\\Users\\toan\\source\\repos\\NortwindTradersManagerment\\NortwindTradersManagerment\\Areas\\Admin\\Controllers\\DashbroadController.cs",
+              "RelativeToolTip": "NortwindTradersManagerment\\Areas\\Admin\\Controllers\\DashbroadController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T01:22:27.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\toan\\source\\repos\\NortwindTradersManagerment\\NortwindTradersManagerment\\Areas\\Admin\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "NortwindTradersManagerment\\Areas\\Admin\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\toan\\source\\repos\\NortwindTradersManagerment\\NortwindTradersManagerment\\Areas\\Admin\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "NortwindTradersManagerment\\Areas\\Admin\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T08:23:56.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\toan\\source\\repos\\NortwindTradersManagerment\\NortwindTradersManagerment\\Areas\\Admin\\Views\\Customers\\Create.cshtml",
+              "RelativeDocumentMoniker": "NortwindTradersManagerment\\Areas\\Admin\\Views\\Customers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\toan\\source\\repos\\NortwindTradersManagerment\\NortwindTradersManagerment\\Areas\\Admin\\Views\\Customers\\Create.cshtml",
+              "RelativeToolTip": "NortwindTradersManagerment\\Areas\\Admin\\Views\\Customers\\Create.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAswEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T02:30:02.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ViewPage1.cshtml",
+              "DocumentMoniker": "C:\\Users\\toan\\source\\repos\\NortwindTradersManagerment\\NortwindTradersManagerment\\Areas\\Admin\\Views\\Shared\\ViewPage1.cshtml",
+              "RelativeDocumentMoniker": "NortwindTradersManagerment\\Areas\\Admin\\Views\\Shared\\ViewPage1.cshtml",
+              "ToolTip": "C:\\Users\\toan\\source\\repos\\NortwindTradersManagerment\\NortwindTradersManagerment\\Areas\\Admin\\Views\\Shared\\ViewPage1.cshtml",
+              "RelativeToolTip": "NortwindTradersManagerment\\Areas\\Admin\\Views\\Shared\\ViewPage1.cshtml",
+              "ViewState": "AgIAAFABAAAAAAAAAAAAAGsBAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T08:50:06.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomersModel.cs",
+              "DocumentMoniker": "C:\\Users\\toan\\source\\repos\\NortwindTradersManagerment\\model\\CustomersModel.cs",
+              "RelativeDocumentMoniker": "model\\CustomersModel.cs",
+              "ToolTip": "C:\\Users\\toan\\source\\repos\\NortwindTradersManagerment\\model\\CustomersModel.cs",
+              "RelativeToolTip": "model\\CustomersModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T08:25:04.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\toan\\source\\repos\\NortwindTradersManagerment\\NortwindTradersManagerment\\Areas\\Admin\\Views\\Dashbroad\\Index.cshtml",
+              "RelativeDocumentMoniker": "NortwindTradersManagerment\\Areas\\Admin\\Views\\Dashbroad\\Index.cshtml",
+              "ToolTip": "C:\\Users\\toan\\source\\repos\\NortwindTradersManagerment\\NortwindTradersManagerment\\Areas\\Admin\\Views\\Dashbroad\\Index.cshtml",
+              "RelativeToolTip": "NortwindTradersManagerment\\Areas\\Admin\\Views\\Dashbroad\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T01:22:32.466Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
